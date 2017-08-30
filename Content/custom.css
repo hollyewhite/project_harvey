@@ -1,0 +1,93 @@
+﻿/*holly elizabeth white •  8/29/2017 • Project Harvey */
+/*top padding*/
+.requesthelp{
+    padding-top:80px;
+}
+
+/*icon color*/ 
+.fa {
+color: red;
+padding: .5em;
+font-size: 50px;
+}
+/*body*/ 
+
+body, {
+background: grey !important;
+}
+
+.container .pt-3 {
+    background: grey !important;
+}
+#someoneelse-section, .container.pt-3 {
+    background:grey ;
+}
+
+.bottom-button {
+    background:grey ;
+    padding: 1em;
+}
+
+.guide-text h4 {
+    padding: 1.5em;
+    color: #343a40;
+}
+
+form {
+    background-color: grey;
+}
+
+/*nav bar*/
+.navbar-dark .navbar-nav .nav-link {
+	color: white; 
+        font-size: 16px;
+
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: red; 
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    font-size: 20px;
+}
+
+.navbar-brand {
+	height: fit-content !important;
+	padding: 1em !important;
+}
+
+/*bootstrap 'card'*/
+.card-header {
+    background-color: #343a40;
+    color: white;
+    font-size: 18px;
+}
+
+.requesthelp {
+    padding-top: 3em;
+    background: grey;
+}
+
+.card-title {
+    font-size: 18px;    
+}
+
+.card {
+margin: 2em;
+padding: .5em;
+border-radius: .5em;
+}
+
+/*button*/ 
+
+.btn-danger {
+    background-color: red !important;
+}
+
+/*footer*/ 
+.panel{
+    background-color: #343a40;
+    color: white;
+    font-size: 12px;
+}
